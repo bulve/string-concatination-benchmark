@@ -1,0 +1,7 @@
+
+G
+java:S22017"*The return value of "concat" must be used.(åİï–8¾ö¢¸³.
+>
+java:S1643+"Use a StringBuilder instead.(ÚĞ¦»şÿÿÿÿ8ùÏ ¸³.
+
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ì­ŠÜúÿÿÿÿ8ä¢¤¸³.
